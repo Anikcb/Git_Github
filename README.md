@@ -3,4 +3,5 @@
 - git commit -m "Add existing project files to Git"
 - git remote add origin "Github link"
 - git checkout -b main
+- git push --set-upstream origin main(If you face any problem)
 - git push -u -f origin main
