@@ -16,3 +16,5 @@
     git push --set-upstream origin main(If you face any problem)
   ### used to upload local repository content to a remote repository
     git push -u -f origin main
+  ### View your commit history
+    git log
