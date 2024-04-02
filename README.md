@@ -1,5 +1,7 @@
   ### Initialize Git
     git init
+  ### view the changes you have made
+    git status
   ### adds a change in the working directory to the staging area
     git add .
   ###  captures a snapshot of the project's currently staged changes
